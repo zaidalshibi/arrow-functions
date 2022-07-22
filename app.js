@@ -227,4 +227,4 @@ joe.scopeArrow();
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // "this" is a window object which represents an open window in the browser 
 // 3. Explain why "this" is different when an arrow function is used.
-// when using "this" in the traditional function it is in the scope of object which is being called on and when using an arrow function it uses the global scope (since arrow functions don't have its own binding)
+// when using "this" in the traditional function it is in the scope of object which is being called on and when using an arrow function it uses the global scope (since arrow functions don't have its own binding).
